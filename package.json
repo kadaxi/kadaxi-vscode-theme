@@ -22,7 +22,7 @@
       }
     ]
   },
-  "icon": "./src/img/icon.png",
+  "icon": "src/img/icon.png",
   "author": {
     "name": "kadaxi",
     "email": "kadaxi.cs@gmail.com",
