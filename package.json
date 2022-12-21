@@ -14,7 +14,7 @@
       {
         "label": "kadaxi dark",
         "uiTheme": "vs-dark",
-        "path": "./src/themes/kadaxi_dark.json"
+        "path": "./themes/kadaxi_dark.json"
       }
     ]
   },
