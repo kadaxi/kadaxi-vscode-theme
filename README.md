@@ -1,16 +1,14 @@
-# kadaxi-dark-theme README
+# Kadaxi vscode theme.
+Personally I think default vscode theme it's too pretty, but something that doesn't add up at all it's the dark palette around the editor (sidebar, status bar colors, etc), then it came to me that maybe I could merge material and default theme, making few changes and adding languages support, hope you enjoy it, happy coding.
 
-## Working with Markdown
+## Installation
+Under development...
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Color palette.
+Under development...
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Override this theme.
+Under development...
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Contribute
+Under development...
