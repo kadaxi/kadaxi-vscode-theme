@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "bugs": {
+    "url": "https://github.com/kadaxi/kadaxi-vscode-theme",
+    "email": "kadaxi.cs@gmail.com"
+  },
   "contributes": {
     "themes": [
       {
