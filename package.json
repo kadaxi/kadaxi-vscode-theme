@@ -1,0 +1,32 @@
+{
+  "name": "kadaxi-dark-theme",
+  "displayName": "kadaxi dark",
+  "description": "A dark theme for coding at night inspired in vscode default theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kadaxi dark",
+        "uiTheme": "vs-dark",
+        "path": "./src/themes/kadaxi_dark.json"
+      }
+    ]
+  },
+  "icon": "./src/img/icon.png",
+  "author": {
+    "name": "kadaxi",
+    "email": "kadaxi.cs@gmail.com",
+    "url": "https://github.com/kadaxi"
+  },
+  "repository": {
+    "url": "https://github.com/kadaxi/kadaxi-vscode-theme",
+    "type": "git"
+  },
+  "publisher": "kadaxi"
+}
