@@ -7,7 +7,7 @@ Paste the following command `ext install kadaxi.kadaxi-dark-theme` in VS Code Qu
 #### Second way
 Inside vscode open extensions menu with `Ctrl + Shift + X`, after fill input box with `kadaxi dark @recentlyPublished` and click on install.
 
-> At installation will prompt a box to change theme, just press enter. You can check theme at microsoft marketplace [link](https://marketplace.visualstudio.com/items?itemName=kadaxi.kadaxi-dark-theme).
+> At installation will prompt a box to change theme, just press enter. Remember that you can also check this theme at microsoft marketplace [link](https://marketplace.visualstudio.com/items?itemName=kadaxi.kadaxi-dark-theme).
 
 ## Color palette.
 Under development...
