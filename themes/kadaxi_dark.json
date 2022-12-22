@@ -392,7 +392,9 @@
 				"constant.other.boolean.toml",
 				"punctuation.definition.keyValuePair.toml",
 				"meta.fstring.python",
-				"meta.attribute.python"
+				"meta.attribute.python",
+				"entity.name.type.enum.rust",
+				"meta.attribute.rust"
 			],
 			"settings": {
 				"foreground": "#C586C0"
