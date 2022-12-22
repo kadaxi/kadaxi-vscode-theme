@@ -2,7 +2,7 @@
   "name": "kadaxi-dark-theme",
   "displayName": "kadaxi dark",
   "description": "A dark theme for coding at night inspired in vscode default theme.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.74.0"
   },
