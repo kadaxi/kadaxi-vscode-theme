@@ -18,5 +18,6 @@ Under development...
 Under development...
 
 ## Inspiration
-- [material theme](https://github.com/material-theme/vsc-material-theme.git)
-- [dark-plus-syntax](https://github.com/tcd/dark-plus-syntax.git)
+- [material theme](https://github.com/material-theme/vsc-material-theme.git).
+- [dark-plus-syntax](https://github.com/tcd/dark-plus-syntax.git).
+- [bat samples](https://github.com/sharkdp/bat/issues/1213).
